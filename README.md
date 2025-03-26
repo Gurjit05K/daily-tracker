@@ -13,7 +13,7 @@ A simple and aesthetic tracker to manage daily tasks and visualize progress usin
 - HTML, CSS  
 
 ##  Setup & Installation  
-1️⃣ Clone the repository:  
+ Clone the repository:  
 ```sh
 git clone https://github.com/Gurjit05k/daily-tracker.git
-cd Daily-Activity-Tracker
+cd daily-tracker
